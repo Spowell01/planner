@@ -6,7 +6,7 @@ A work day planner to help keep you organized!
 
 ## Installation
 here is a link to the deplyed site!
-https://spowell01.github.io/code-quiz/
+https://spowell01.github.io/planner/
 
 ## Usage
 this is a screenshot of the page.
